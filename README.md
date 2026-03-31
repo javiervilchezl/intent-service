@@ -4,9 +4,9 @@ Microservicio FastAPI para deteccion de intencion y extraccion de entidades desd
 
 ## Responsabilidad
 
-- inferir la intencion principal de un mensaje
-- extraer entidades relevantes
-- responder en formato JSON consistente para automatizacion y routing
+- Inferir la intencion principal de un mensaje.
+- Extraer entidades relevantes.
+- Responder en formato JSON consistente para automatizacion y routing.
 
 ## Endpoint
 
@@ -59,5 +59,5 @@ pip install -r requirements-dev.txt
 pytest
 ```
 
-Cobertura configurada al 100%.
+Cobertura al 100%.
 
